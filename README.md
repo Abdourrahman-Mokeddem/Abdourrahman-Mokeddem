@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**Abdourrahman-Mokeddem/Abdourrahman-Mokeddem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abdourrahman 👋
 
-Here are some ideas to get you started:
+I'm an engineering student at **ESIEE Paris**, specializing in **Data Science & Artificial Intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly work with Python and enjoy learning about machine learning, deep learning, and data analysis through university and personal projects.
+
+## 🛠️ Skills
+
+**Languages:** Python, SQL, VHDL, C
+
+**Data Science:** NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, Plotly
+
+**Deep Learning:** PyTorch, TensorFlow, Keras
+
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Streamlit, PostgreSQL, Linux
+
+## 📂 Projects
+
+Here are some of the projects I've worked on.
+
+### [Energy Monitoring Platform](https://github.com/Abdourrahman-Mokeddem/energy-monitoring-platform)
+
+A Python project for analyzing energy consumption data and detecting unusual patterns.
+
+- Data analysis and visualization
+- Anomaly detection using Isolation Forest
+- Interactive dashboard with Streamlit
+
+More projects will be added as I continue working on them.
+
+## 📫 Contact
+
+Feel free to explore my repositories or reach out through GitHub.
